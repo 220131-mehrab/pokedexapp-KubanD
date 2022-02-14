@@ -22,8 +22,8 @@ public class DexRepository {
             this.pocketMonsters.add(scanner.next());
         }
     }
-    public List<String> getPocketMonsters() {
-            return pocketMonsters;
 
+    public List<String> getPocketMonsters() {
+        return pocketMonsters;
     }
 }
